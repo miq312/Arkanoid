@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+C:/Arkanoid/_build/_deps/sfml-src/cmake/CompilerWarnings.cmake
+C:/Arkanoid/_build/_deps/sfml-src/cmake/Macros.cmake
+C:/Arkanoid/_build/_deps/sfml-src/src/SFML/CMakeLists.txt
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeParseArguments.cmake
